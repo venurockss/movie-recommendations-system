@@ -59,7 +59,7 @@ Feel free to contribute! Fork the repository, make changes, and submit a pull re
 This project is licensed under the **MIT License**.
 
 ## 📩 Contact
-For any queries, reach out via [Your Email] or [Your GitHub Profile].
+For any queries, reach out via gajulavenu49@gmail.com
 
 ---
 **⭐ Don't forget to star this repo if you found it useful!**
